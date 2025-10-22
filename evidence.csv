@@ -1,0 +1,11 @@
+evidence_id;case_id;description;location_found;type
+10001;10001;Fingerprint on safe;Bank vault;Fingerprint
+10002;10002;Knife with blood;Lviv apartment;Weapon
+10003;10003;Hidden box of goods;Odesa port;Container
+10004;10004;Footprint;Forest trail;Trace
+10005;10005;Phone record;Office;Digital
+10006;10006;Car tire mark;Roadside;Trace
+10007;10007;Broken lock;Warehouse door;Toolmark
+10008;10008;Explosive residue;Bridge edge;Chemical
+10009;10009;Torn jacket;Park bench;Cloth
+10010;10010;Wallet found;Station platform;Personal item

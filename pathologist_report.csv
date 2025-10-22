@@ -1,0 +1,11 @@
+autopsy_id;case_of_death;pathologist_name;detective_id;victim_id
+10001;Gunshot;Dr. Kovalenko;09832;10001
+10002;Stabbing;Dr. Shevchenko;06574;10002
+10003;Car accident;Dr. Petrenko;21344;10003
+10004;Drowning;Dr. Melnyk;12345;10004
+10005;Poisoning;Dr. Tkachenko;14325;10005
+10006;Burns;Dr. Vovk;56789;10006
+10007;Blunt force;Dr. Romanenko;99854;10007
+10008;Fall;Dr. Lysenko;09234;10008
+10009;Strangulation;Dr. Kravets;02345;10009
+10010;Heart attack;Dr. Shevchenko;00120;10010

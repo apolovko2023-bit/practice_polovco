@@ -1,0 +1,11 @@
+victim_id;case_id;full_name;age;status
+10001;10001;Oleh Ivanov;30;Deceased
+10002;10002;Olena Kovalenko;28;Deceased
+10003;10003;Maksym Petrenko;35;Injured
+10004;10004;Oksana Tkachenko;25;Deceased
+10005;10005;Serhii Bondar;32;Deceased
+10006;10006;Kateryna Melnyk;29;Injured
+10007;10007;Taras Vovk;40;Deceased
+10008;10008;Yurii Romanenko;33;Injured
+10009;10009;Halyna Kravets;27;Deceased
+10010;10010;Ivan Shevchenko;36;Injured

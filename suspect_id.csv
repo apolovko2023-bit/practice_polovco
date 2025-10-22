@@ -1,0 +1,11 @@
+suspect_id;case_id;first_name;last_name;address;phone_number;birth_date;status
+10001;10001;Petro;Ivanov;Shevchenko St. 20;380931111555;1988-05-01;Arrested
+10002;10002;Andrii;Kovalenko;Halytska St. 12;380671113344;1990-12-10;Wanted
+10003;10003;Maksym;Bondar;Deribasivska 40;380501113355;1992-07-22;Under Investigation
+10004;10004;Oleh;Tkachenko;Lisova 5;380991114455;1985-03-11;Arrested
+10005;10005;Ivan;Petrenko;Kozatska 12;380931115566;1989-09-30;Released
+10006;10006;Serhii;Melnyk;Bohdan Khmelnytsky 14;380981116677;1991-11-15;Wanted
+10007;10007;Taras;Vovk;Promyslova 21;380971117788;1987-01-20;Under Investigation
+10008;10008;Yurii;Romanenko;Riverside 28;380631118899;1993-08-09;Arrested
+10009;10009;Oksana;Kravets;Zelena 14;380951119900;1994-04-25;Released
+10010;10010;Kateryna;Shevchenko;Vokzalna 5;380961120011;1990-06-06;Wanted

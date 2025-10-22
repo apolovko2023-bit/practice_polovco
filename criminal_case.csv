@@ -1,0 +1,11 @@
+case_id;case_title;lead_detective;status;date_open;date_closed;location_id
+10001;Bank Robbery;09832;Closed;2023-01-15;2023-02-01;09809
+10002;Murder in Lviv;06574;In Progress;2024-03-10;2024-03-15;09807
+10003;Smuggling Operation;21344;Open;2024-05-21;2025-10-10;09705
+10004;Forest Homicide;12345;Open;2023-09-11;2023-09-19;07803
+10005;Kidnapping Case;14325;Closed;2022-10-20;2022-11-05;09543
+10006;Car Accident Investigation;56789;Open;2024-07-01;2025-07-09;07645
+10007;Warehouse Theft;99854;Closed;2023-12-01;2023-12-15;09876
+10008;Bridge Explosion;09234;In Progress;2024-02-25;2024-02-26;08765
+10009;Park Assault;02345;Open;2024-06-19;2024-09-23;09762
+10010;Station Pickpocketing;00120;Closed;2023-04-07;2023-04-15;04598
